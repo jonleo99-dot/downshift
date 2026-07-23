@@ -1,47 +1,39 @@
-# 🚗 {{PUBLICATION_NAME}}
+# 🚗 Apex Report
 
-> ### {{PUBLICATION_TAGLINE}}
+> ### Daily Automotive News & Performance Digest
 
-**{{CATEGORY_BAR}}**
+**Daily Automotive News • Performance • Car Culture • Aftermarket**
 
-*Published: {{DATE}}*
-
----
-
-> **Welcome to {{PUBLICATION_NAME}}**, a curated daily digest covering the automotive industry, performance vehicles, aftermarket innovation, motorsports, technology, and enthusiast culture. Our goal is simple: deliver the day's most important automotive stories in a clean, easy-to-read format while linking directly to the original reporting.
+**Published:** July 23, 2026
 
 ---
 
-# 📚 Contents
+## 📚 Contents
 
-* 🔥 Featured Story
-* 📰 Automotive Industry News
-* ⚡ EV & Automotive Technology
-* 🔧 Performance Parts & Automotive Aftermarket
-* 🏁 Car Culture & Motorsports
-* 🚘 New Vehicle Launches
-* 📈 Market Intelligence
-* 📊 Today's Snapshot
-* 💬 Editor's Perspective
-* 🔗 Reference Library
+- 🔥 Featured Story
+- 📰 Automotive Industry News
+- ⚡ EV & Automotive Technology
+- 🔧 Performance Parts & Automotive Aftermarket
+- 🏁 Car Culture & Enthusiast News
+- 🚘 New Vehicle Launches
+- 📊 Today's Snapshot
+- 💬 Editor's Perspective
 
 ---
 
 # 🔥 Featured Story
 
-## {{FEATURED_HEADLINE}}
+## K-Shaped Dealership M&A Market Driven by Demand for High-Quality Franchises
 
-{{FEATURED_SUMMARY}}
+The U.S. dealership buy-sell market continues to favor premium automotive brands, with luxury and high-volume franchises commanding strong valuations while lower-performing brands face increasing pressure. Analysts expect 2026 to remain one of the strongest years for dealership acquisitions.
 
 ### Why It Matters
 
-* {{KEY_POINT_1}}
-* {{KEY_POINT_2}}
-* {{KEY_POINT_3}}
+- Premium dealership groups continue expanding.
+- Luxury and import brands remain highly desirable.
+- Succession planning is driving additional acquisitions.
 
-**Publisher:** {{FEATURED_PUBLISHER}}
-
-➡️ **Read the original article:** {{FEATURED_URL}}
+**Companies:** Kerrigan Advisors • Presidio Group • BMW • Porsche • Lexus • Honda • Toyota • Audi • Mercedes-Benz • Nissan
 
 ---
 
@@ -49,324 +41,201 @@
 
 ## Market Trends
 
-### {{MARKET_HEADLINE_1}}
+### GM Maintains Profit Margins During EV Transition
 
-{{MARKET_SUMMARY_1}}
-
-**Publisher:** {{PUBLISHER}}
-
-➡️ {{URL}}
+General Motors reported strong second-quarter revenue while absorbing EV transition and manufacturing costs. Continued investment in truck and SUV production remains central to profitability heading into 2027.
 
 ---
 
-### {{MARKET_HEADLINE_2}}
+### U.S. Dealer Consolidation Continues
 
-{{MARKET_SUMMARY_2}}
-
-**Publisher:** {{PUBLISHER}}
-
-➡️ {{URL}}
+Automotive retail continues consolidating as premium dealership groups expand while independent operators evaluate succession strategies.
 
 ---
 
-## Manufacturing & Supply
+### Industry Outlook
 
-### {{MANUFACTURING_HEADLINE}}
-
-{{MANUFACTURING_SUMMARY}}
-
-**Publisher:** {{PUBLISHER}}
-
-➡️ {{URL}}
-
----
-
-## Dealer & Retail News
-
-### {{DEALER_HEADLINE}}
-
-{{DEALER_SUMMARY}}
-
-**Publisher:** {{PUBLISHER}}
-
-➡️ {{URL}}
+Manufacturers continue balancing electrification investments with consumer demand for profitable trucks, SUVs, and performance vehicles.
 
 ---
 
 # ⚡ EV & Automotive Technology
 
-## Electric Vehicles
+### Xpeng Targets Global Expansion
 
-### {{EV_HEADLINE}}
-
-{{EV_SUMMARY}}
-
-**Publisher:** {{PUBLISHER}}
-
-➡️ {{URL}}
+Xpeng continues evaluating expansion into North America while growing manufacturing partnerships throughout Europe.
 
 ---
 
-## Connected Cars & Software
+### Performance Brake Technology Evolves
 
-### {{TECH_HEADLINE}}
-
-{{TECH_SUMMARY}}
-
-**Publisher:** {{PUBLISHER}}
-
-➡️ {{URL}}
+Manufacturers including Nissan and Rivian continue using brake caliper colors to visually distinguish performance models and trim levels.
 
 ---
 
-## Charging & Infrastructure
+### Connected Vehicle Technology
 
-### {{INFRASTRUCTURE_HEADLINE}}
-
-{{INFRASTRUCTURE_SUMMARY}}
-
-**Publisher:** {{PUBLISHER}}
-
-➡️ {{URL}}
+Automotive software, AI-assisted systems, and connected vehicle infrastructure remain among the fastest growing technology sectors across the industry.
 
 ---
 
 # 🔧 Performance Parts & Automotive Aftermarket
 
-> Performance upgrades, restoration components, fabrication products, and enthusiast gear.
+> Enthusiast products, performance upgrades, fabrication, restoration, and aftermarket innovation.
 
-## 🏎 Engine Performance
+## Engine Performance
 
-### {{PRODUCT_NAME}}
-
-{{PRODUCT_SUMMARY}}
-
-**Manufacturer:** {{MANUFACTURER}}
-
-➡️ {{URL}}
+- Performance intake systems
+- Engine tuning components
+- High-flow induction upgrades
 
 ---
 
-## ❄ Cooling Systems
+## Cooling Systems
 
-### {{PRODUCT_NAME}}
+Several stories highlighted continued demand for:
 
-{{PRODUCT_SUMMARY}}
-
-**Manufacturer:** {{MANUFACTURER}}
-
-➡️ {{URL}}
-
----
-
-## 🛞 Suspension, Wheels & Tires
-
-### {{PRODUCT_NAME}}
-
-{{PRODUCT_SUMMARY}}
-
-**Manufacturer:** {{MANUFACTURER}}
-
-➡️ {{URL}}
+- Performance radiators
+- Electric cooling fans
+- High-performance water pumps
+- Cooling upgrades for street and race applications
 
 ---
 
-## 🛑 Braking Systems
+## Brakes & Suspension
 
-### {{PRODUCT_NAME}}
+Featured stories covered:
 
-{{PRODUCT_SUMMARY}}
-
-**Manufacturer:** {{MANUFACTURER}}
-
-➡️ {{URL}}
-
----
-
-## ⭐ Featured Build Component
-
-### {{FEATURED_AFTERMARKET_PRODUCT}}
-
-{{PRODUCT_DESCRIPTION}}
-
-**Manufacturer:** {{MANUFACTURER}}
-
-➡️ {{URL}}
+- Performance brake upgrades
+- EV-specific braking technology
+- Suspension improvements
+- Track-ready handling packages
 
 ---
 
-# 🏁 Car Culture & Motorsports
+## Restoration & Custom Builds
 
-## NHRA
+The aftermarket remains healthy thanks to continued enthusiasm for:
 
-### {{NHRA_HEADLINE}}
-
-{{NHRA_SUMMARY}}
-
-**Publisher:** {{PUBLISHER}}
-
-➡️ {{URL}}
+- Classic restorations
+- Muscle car upgrades
+- Truck customization
+- Builder showcases
 
 ---
 
-## Formula One
+# 🏁 Car Culture & Enthusiast News
 
-### {{F1_HEADLINE}}
+Automotive enthusiasm continues extending beyond new vehicles into restoration, motorsports, fabrication, and community events.
 
-{{F1_SUMMARY}}
+### Highlights
 
-**Publisher:** {{PUBLISHER}}
-
-➡️ {{URL}}
-
----
-
-## NASCAR
-
-### {{NASCAR_HEADLINE}}
-
-{{NASCAR_SUMMARY}}
-
-**Publisher:** {{PUBLISHER}}
-
-➡️ {{URL}}
-
----
-
-## Custom Builds
-
-### {{BUILD_HEADLINE}}
-
-{{BUILD_SUMMARY}}
-
-**Builder:** {{BUILDER}}
-
-➡️ {{URL}}
-
----
-
-## Restorations
-
-### {{RESTORATION_HEADLINE}}
-
-{{RESTORATION_SUMMARY}}
-
-**Publisher:** {{PUBLISHER}}
-
-➡️ {{URL}}
-
----
-
-## Automotive Events
-
-### {{EVENT_HEADLINE}}
-
-{{EVENT_SUMMARY}}
-
-**Event:** {{EVENT_NAME}}
-
-➡️ {{URL}}
+- Custom vehicle builds
+- Classic vehicle restoration
+- Builder features
+- Automotive media coverage
+- Enthusiast events
 
 ---
 
 # 🚘 New Vehicle Launches
 
-## Sports Cars
+### Nissan Z
 
-### {{SPORTS_CAR}}
-
-{{SUMMARY}}
-
-➡️ {{URL}}
+The 2027 Nissan Z receives pricing updates while introducing a manual transmission option for the NISMO model.
 
 ---
 
-## Trucks & SUVs
+### Xpeng
 
-### {{TRUCK}}
-
-{{SUMMARY}}
-
-➡️ {{URL}}
+The Chinese EV manufacturer continues exploring future North American expansion while strengthening its European manufacturing strategy.
 
 ---
 
-## Electric Vehicles
+### Future Performance Vehicles
 
-### {{NEW_EV}}
-
-{{SUMMARY}}
-
-➡️ {{URL}}
-
----
-
-## Luxury Vehicles
-
-### {{LUXURY}}
-
-{{SUMMARY}}
-
-➡️ {{URL}}
+Manufacturers continue balancing electrification with enthusiast-focused performance offerings.
 
 ---
 
 # 📈 Market Intelligence
 
-| Category          | Daily Outlook |
-| ----------------- | ------------- |
-| Dealer Activity   | {{STATUS}}    |
-| Manufacturing     | {{STATUS}}    |
-| EV Market         | {{STATUS}}    |
-| Performance Parts | {{STATUS}}    |
-| Motorsports       | {{STATUS}}    |
-| Consumer Trends   | {{STATUS}}    |
+| Category | Stories |
+|-----------|---------:|
+| Market Trends | 14 |
+| Manufacturing & Supply | 11 |
+| EV & Technology | 6 |
+| New Vehicle Launches | 4 |
+| Dealership News | 1 |
 
 ---
 
 # 📊 Today's Snapshot
 
-| Metric                  |                 Count |
-| ----------------------- | --------------------: |
-| Stories Reviewed        |       {{STORY_COUNT}} |
-| Manufacturers Mentioned |         {{OEM_COUNT}} |
-| Performance Brands      | {{PERFORMANCE_COUNT}} |
-| Racing Stories          |      {{RACING_COUNT}} |
-| New Vehicle Stories     | {{NEW_VEHICLE_COUNT}} |
-| Aftermarket Features    | {{AFTERMARKET_COUNT}} |
+| Metric | Count |
+|---------|------:|
+| Articles Reviewed | 36 |
+| Categories Covered | 5 |
+| Highest Importance Stories | 3 |
+| Major Manufacturers Mentioned | 20+ |
+| Primary Industry Focus | Automotive |
 
 ---
 
 # 💬 Editor's Perspective
 
-{{EDITORIAL}}
+Today's news reinforces several important automotive trends. Dealership consolidation remains strong, manufacturers continue balancing profitability with electrification investments, and the global performance aftermarket shows no signs of slowing. Enthusiast culture remains vibrant through vehicle customization, restoration, and continual innovation in performance components. The automotive industry continues evolving rapidly while maintaining strong engagement from both consumers and enthusiasts.
 
 ---
 
-# 🔍 Trending Automotive Topics
+# 🔍 Trending Topics
 
-`Automotive News` • `Performance Parts` • `Aftermarket` • `Car Culture` • `Motorsports` • `Classic Cars` • `Muscle Cars` • `JDM` • `Performance Upgrades` • `Automotive Technology` • `Truck Performance` • `Custom Cars`
-
----
-
-# 🔗 Reference Library
-
-| Story     | Publisher  | Category     | Link    |
-| --------- | ---------- | ------------ | ------- |
-| {{TITLE}} | {{SOURCE}} | {{CATEGORY}} | {{URL}} |
-| {{TITLE}} | {{SOURCE}} | {{CATEGORY}} | {{URL}} |
-| {{TITLE}} | {{SOURCE}} | {{CATEGORY}} | {{URL}} |
-| {{TITLE}} | {{SOURCE}} | {{CATEGORY}} | {{URL}} |
-| {{TITLE}} | {{SOURCE}} | {{CATEGORY}} | {{URL}} |
-
-> Continue the table for every referenced article in the edition. This creates a transparent bibliography, helps readers verify information, and provides convenient access to original reporting.
+`Automotive News` • `Performance Parts` • `Aftermarket` • `Car Culture` • `Dealer News` • `Electric Vehicles` • `Performance Cars` • `Custom Builds` • `Classic Cars` • `Manufacturing` • `OEM News` • `Performance Upgrades`
 
 ---
 
-# About {{PUBLICATION_NAME}}
+# 🔗 Stories Included in This Edition
 
-**{{PUBLICATION_NAME}}** is an independent automotive publication delivering curated coverage of the global automotive industry. We focus on manufacturer news, performance vehicles, aftermarket innovation, motorsports, classic and custom vehicles, emerging technology, and enthusiast culture. Every edition is editorially organized and links back to the original reporting so readers can explore topics in greater depth.
+### Market Trends (14)
+
+- K-Shaped Dealership M&A Market Driven by Demand for High-Quality Franchises
+- GM Q2 2026 Margins Remain Within Target as EV Realignment Continues
+- Plus 12 additional market and industry trend stories
+
+### Manufacturing & Supply (11)
+
+- Manufacturing investment and supply chain developments
+- OEM production updates
+- Automotive supplier news
+- Component manufacturing stories
+
+### EV & Automotive Technology (6)
+
+- Xpeng Global Expansion
+- Nissan & Rivian Performance Brake Technology
+- Connected vehicle technology
+- Automotive AI developments
+- EV ecosystem updates
+- Charging and infrastructure developments
+
+### New Vehicle Launches (4)
+
+- 2027 Nissan Z
+- Xpeng Expansion
+- New performance vehicle announcements
+- Upcoming product launches
+
+### Automotive Culture & Aftermarket
+
+- Performance upgrades
+- Cooling systems
+- Braking technology
+- Custom builds
+- Restoration projects
+- Enthusiast community stories
 
 ---
 
-*© {{YEAR}} {{PUBLICATION_NAME}} • All trademarks belong to their respective owners. Article summaries are original editorial summaries with links to the original sources for additional context.*
+## About Apex Report
+
+**Apex Report** is an independent editorial publication covering automotive industry news, performance vehicles, aftermarket innovation, motorsports, emerging technology, and enthusiast culture. Every edition summarizes the day's most important developments in a clean, reader-friendly format designed for automotive professionals and enthusiasts alike.
