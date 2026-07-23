@@ -1,96 +1,105 @@
-# 🚗 The Downshift
+<!-- ========================================================= -->
+<!--                 AUTOMOTIVE DIGEST TEMPLATE                 -->
+<!-- ========================================================= -->
 
-> ### Daily Automotive News & Performance Digest
-> **Daily Automotive News • Performance • Car Culture • Aftermarket**
+# {{PUBLICATION_NAME}}
 
----
+> ### {{PUBLICATION_TAGLINE}}
 
-## 📅 July 23, 2026
+**{{CATEGORY_BAR}}**
 
----
-
-# 🔥 Editor's Take
-
-*A short editorial summary of today's biggest automotive developments.*
-
-Today's automotive landscape continues to be shaped by dealership consolidation, new vehicle launches, performance technology, and enthusiast culture. Manufacturers remain focused on electrification while the aftermarket continues introducing innovative performance upgrades for both ICE and EV platforms.
+*Published: {{DATE}}*
 
 ---
 
-# 📰 Featured Story
+## 📖 In This Edition
 
-## K-Shaped Dealership Market Continues Record Growth
-
-The dealership acquisition market continues to favor premium franchises, with luxury and high-volume brands commanding record valuations as consolidation accelerates across North America.
-
-### Why it Matters
-
-- Dealer consolidation continues
-- Premium brands remain highly desirable
-- Market confidence remains strong
+- 🔥 Featured Story
+- 📰 Industry News
+- ⚡ EV & Technology
+- 🔧 Performance Parts & Aftermarket
+- 🏁 Car Culture & Motorsports
+- 🚘 New Vehicle Launches
+- 📈 Market Intelligence
+- 💬 Editor's Perspective
 
 ---
 
-# 🚘 Automotive Industry News
+# 🔥 Featured Story
 
-### Market Trends
+## {{FEATURED_HEADLINE}}
 
-- GM maintains profitability despite EV investments.
-- Xpeng continues planning international expansion.
-- Nissan announces updates to the 2027 Z lineup.
+{{FEATURED_SUMMARY}}
 
-### Manufacturing & Supply
+### Why It Matters
 
-- OEMs continue investing in North American manufacturing.
-- Supply chain resilience remains a priority.
-- Performance brands continue expanding product offerings.
+- {{POINT_1}}
+- {{POINT_2}}
+- {{POINT_3}}
+
+---
+
+# 📰 Automotive Industry News
+
+## Market Trends
+
+{{MARKET_NEWS}}
+
+## Manufacturing & Supply
+
+{{MANUFACTURING_NEWS}}
+
+## Dealer & Retail
+
+{{DEALER_NEWS}}
 
 ---
 
 # ⚡ EV & Automotive Technology
 
-### Electric Vehicles
+## Electric Vehicles
 
-- Tesla HW3 upgrade questions continue.
-- Brake technology evolves across new EV platforms.
-- Charging infrastructure investments increase.
+{{EV_NEWS}}
 
-### Connected Vehicles
+## Software & Connected Cars
 
-- Vehicle software continues becoming a competitive advantage.
-- AI-assisted driving remains a major development area.
+{{TECH_NEWS}}
+
+## Future Mobility
+
+{{FUTURE_NEWS}}
 
 ---
 
 # 🔧 Performance Parts & Automotive Aftermarket
 
-> The latest performance upgrades for enthusiasts and builders.
+> The latest performance products, upgrades, and innovations for enthusiasts.
 
 ## Engine Performance
 
-- FAST LSXR Intake Manifolds
-- High-flow intake systems
-- Performance tuning solutions
+{{ENGINE_PRODUCTS}}
 
 ## Cooling Systems
 
-- Griffin Radiators
-- Edelbrock Water Pumps
-- Cold Case Performance
-- SPAL Cooling Fans
+{{COOLING_PRODUCTS}}
 
-## Brakes & Suspension
+## Suspension & Handling
 
-- PowerStop EV Brake Kits
-- Performance braking upgrades
-- Handling improvements
+{{SUSPENSION_PRODUCTS}}
 
-## Featured Products
+## Brakes
 
-- Cooling upgrades
-- Brake packages
-- Intake systems
-- Performance accessories
+{{BRAKE_PRODUCTS}}
+
+## Wheels & Tires
+
+{{WHEEL_PRODUCTS}}
+
+## Featured Aftermarket Product
+
+### {{PRODUCT_NAME}}
+
+{{PRODUCT_DESCRIPTION}}
 
 ---
 
@@ -98,77 +107,94 @@ The dealership acquisition market continues to favor premium franchises, with lu
 
 ## NHRA
 
-- Championship battle continues
-- Top Fuel testing results
-- Driver standings
+{{NHRA}}
 
 ## Formula One
 
-- Development race intensifies
-- Miami upgrade packages
-- Technical innovations
+{{F1}}
+
+## NASCAR
+
+{{NASCAR}}
+
+## Drift & Time Attack
+
+{{DRIFT}}
 
 ## Custom Builds
 
-- Kindig-It Design
-- Custom Chevrolet Suburban
-- Classic GM builds
-- Ford restorations
+{{BUILDS}}
 
-## Events
+## Restorations
 
-- SEMA
-- Cruisin' The Coast
-- Route 66 Festival
-- Builder Tours
+{{RESTORATIONS}}
+
+## Automotive Events
+
+{{EVENTS}}
 
 ---
 
-# 🚗 New Vehicle Releases
+# 🚘 New Vehicle Launches
 
 ## Sports Cars
 
-- Nissan Z
-- Performance Editions
-
-## Electric Vehicles
-
-- Xpeng
-- Tesla
+{{SPORTS}}
 
 ## Trucks & SUVs
 
-- Upcoming launches
-- Performance trucks
+{{TRUCKS}}
+
+## Electric Vehicles
+
+{{NEW_EV}}
+
+## Luxury Vehicles
+
+{{LUXURY}}
 
 ---
 
-# 📊 Market Intelligence
+# 📈 Market Intelligence
 
-| Category | Highlights |
-|-----------|------------|
-| Dealer News | Consolidation continues |
-| Manufacturing | Domestic investment |
-| EV Technology | Software & Charging |
-| Performance | New aftermarket products |
-| Motorsports | NHRA & Formula One |
-
----
-
-# 📈 Today's Numbers
-
-- 🚗 36 Automotive Stories
-- 🏁 7 Motorsports Stories
-- 🔧 8 Aftermarket Features
-- ⚡ 6 EV & Technology Articles
-- 🚙 12 Major Manufacturers Covered
+| Category | Today's Outlook |
+|-----------|-----------------|
+| Dealer News | {{DEALER_STATUS}} |
+| Manufacturing | {{MANUFACTURING_STATUS}} |
+| EV Market | {{EV_STATUS}} |
+| Performance | {{AFTERMARKET_STATUS}} |
+| Motorsports | {{RACING_STATUS}} |
 
 ---
 
-# 💬 The Downshift Outlook
+# 📊 Today's Snapshot
 
-Today's news reinforces several long-term industry trends: continued investment in electrification, steady growth in the performance aftermarket, increasing manufacturer localization, and an enthusiast community that remains stronger than ever through motorsports, custom builds, and automotive events.
+| Metric | Count |
+|---------|------:|
+| Stories Reviewed | {{STORY_COUNT}} |
+| Manufacturers | {{OEM_COUNT}} |
+| Performance Brands | {{PERFORMANCE_COUNT}} |
+| Racing Stories | {{RACING_COUNT}} |
+| Featured Products | {{PRODUCT_COUNT}} |
 
 ---
 
-*The Downshift is an AI-assisted editorial digest covering automotive industry news, performance vehicles, aftermarket innovation, motorsports, and enthusiast culture.*
+# 💬 Editor's Perspective
+
+{{EDITORIAL}}
+
+---
+
+## 🔍 Trending Keywords
+
+`Automotive News` • `Performance Parts` • `Car Culture` • `Aftermarket` • `Motorsports` • `Performance Vehicles` • `Classic Cars` • `Custom Cars` • `Engine Performance` • `Vehicle Technology`
+
+---
+
+## About {{PUBLICATION_NAME}}
+
+{{PUBLICATION_NAME}} is an independent editorial digest covering automotive industry news, performance vehicles, aftermarket innovation, motorsports, technology, and enthusiast culture. Published regularly for readers seeking concise, curated insights from across the automotive world.
+
+---
+
+*© {{YEAR}} {{PUBLICATION_NAME}}*
